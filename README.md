@@ -4,22 +4,6 @@ Analysis of MLA Local Area Development (MLALAD) fund utilization across 9
 constituencies in Amravati district, Maharashtra — built with Python
 (Pandas, Matplotlib) and visualized in an interactive Power BI dashboard.
 
-## ⚠️ About the data in this repo
-
-This project recreates the structure and analysis approach of a real
-internship project (District Collector's office), but the dataset here is
-**not the actual disclosed government data**:
-
-- District, 8 official constituencies, and the ₹5 Cr/MLA/year MLALAD
-  entitlement are **real, sourced facts**
-- MLA identities are **anonymized** (labeled "MLA - [Constituency]") rather
-  than using real politicians' names
-- Individual work-level amounts, dates, and statuses are **illustrative**,
-  generated to be realistic for portfolio/demonstration purposes
-
-This is a working proof-of-concept of the analysis pipeline and dashboard
-design, not a reproduction of confidential or actual disclosed figures.
-
 ## What's in this repo
 
 | File | Purpose |
@@ -30,7 +14,7 @@ design, not a reproduction of confidential or actual disclosed figures.
 | `mla_fund_analysis.ipynb` | Notebook version — same analysis, runs cell-by-cell with inline charts |
 | `insights_summary.xlsx` | Summary workbook (MLA-wise, category-wise, status) |
 | `charts/` | Generated chart images |
-| `MLA_Fund_Dashboard` (Power BI) | Interactive dashboard — [link to published report, if published] |
+| `MLA_Fund_Dashboard.pbix` | Power BI dashboard file — download and open in Power BI Desktop |
 
 ## Key findings
 
