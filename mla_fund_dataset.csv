@@ -1,0 +1,107 @@
+Work_ID,MLA,Constituency,District,Financial_Year,Category,Work_Description,Village,Sanctioned_Amount,Spent_Amount,Remaining_Balance,Sanction_Date,Status
+WRK0001,MLA - Amravati,Amravati,Amravati,2024-25,Roads,"Cement concrete road, Walgaon",Walgaon,1763000,1692600,70400,2024-12-24,Completed
+WRK0002,MLA - Amravati,Amravati,Amravati,2024-25,Open Gym,"Outdoor fitness equipment, Chikhaldara",Chikhaldara,3928000,1186100,2741900,2024-10-05,Delayed
+WRK0003,MLA - Amravati,Amravati,Amravati,2024-25,Water Tank / Drinking Water,"Overhead water tank construction, Rasulabad",Rasulabad,11662000,11058700,603300,2024-05-01,Completed
+WRK0004,MLA - Amravati,Amravati,Amravati,2024-25,Drainage,"Nala (drain) improvement, Kurha",Kurha,2363000,2232200,130800,2024-11-11,Completed
+WRK0005,MLA - Amravati,Amravati,Amravati,2024-25,Open Gym,"Outdoor fitness equipment, Kurha",Kurha,2125000,2028800,96200,2024-04-22,Completed
+WRK0006,MLA - Amravati,Amravati,Amravati,2024-25,Water Tank / Drinking Water,"Bore-well installation, Chandur",Chandur,229000,127400,101600,2024-08-20,In Progress
+WRK0007,MLA - Amravati,Amravati,Amravati,2024-25,Compound Wall (Schools/Institutions),"Compound wall, Nimbhora Primary Health Centre",Nimbhora,955000,920100,34900,2024-06-20,Completed
+WRK0008,MLA - Amravati,Amravati,Amravati,2024-25,School Building & Equipment,"Additional classroom, ZP School Dabhada",Dabhada,2117000,1259000,858000,2024-07-15,In Progress
+WRK0009,MLA - Amravati,Amravati,Amravati,2024-25,Open Gym,"Outdoor fitness equipment, Kholapur",Kholapur,3475000,2725300,749700,2024-04-05,In Progress
+WRK0010,MLA - Amravati,Amravati,Amravati,2024-25,Roads,Road widening near Paratwada,Paratwada,4976000,791200,4184800,2024-06-08,Delayed
+WRK0011,MLA - Amravati,Amravati,Amravati,2024-25,Water Tank / Drinking Water,"Overhead water tank construction, Chikhaldara",Chikhaldara,1465000,1338600,126400,2024-10-22,Completed
+WRK0012,MLA - Amravati,Amravati,Amravati,2024-25,Water Tank / Drinking Water,"Bore-well installation, Dabhada",Dabhada,208000,195800,12200,2024-09-05,Completed
+WRK0013,MLA - Amravati,Amravati,Amravati,2024-25,School Building & Equipment,"Smart-class equipment, Kurha school",Kurha,1039000,983000,56000,2024-10-03,Completed
+WRK0014,MLA - Amravati,Amravati,Amravati,2024-25,Playground,"Development of playground, Yavali",Yavali,7344000,6783600,560400,2024-05-07,Completed
+WRK0015,MLA - Badnera,Badnera,Amravati,2024-25,Community Hall,"Renovation of Samaj Mandir, Paratwada",Paratwada,1682000,1523100,158900,2024-08-08,Completed
+WRK0016,MLA - Badnera,Badnera,Amravati,2024-25,Drainage,"Drainage line construction, Kholapur",Kholapur,3355000,3096800,258200,2024-04-06,Completed
+WRK0017,MLA - Badnera,Badnera,Amravati,2024-25,Community Hall,"Renovation of Samaj Mandir, Chandur",Chandur,8278000,3599000,4679000,2024-12-21,In Progress
+WRK0018,MLA - Badnera,Badnera,Amravati,2024-25,Playground,"Playground boundary & leveling, Talegaon",Talegaon,6563000,6429700,133300,2024-04-24,Completed
+WRK0019,MLA - Badnera,Badnera,Amravati,2024-25,Sanitation,"Solid waste collection point, Kholapur",Kholapur,827000,156200,670800,2024-04-17,Delayed
+WRK0020,MLA - Badnera,Badnera,Amravati,2024-25,School Building & Equipment,"Additional classroom, ZP School Talegaon",Talegaon,5586000,0,5586000,2024-08-27,Not Started
+WRK0021,MLA - Badnera,Badnera,Amravati,2024-25,Water Tank / Drinking Water,"Overhead water tank construction, Chandur",Chandur,373000,336000,37000,2024-07-23,Completed
+WRK0022,MLA - Badnera,Badnera,Amravati,2024-25,Water Tank / Drinking Water,"Bore-well installation, Talegaon",Talegaon,2295000,2140700,154300,2024-04-01,Completed
+WRK0023,MLA - Badnera,Badnera,Amravati,2024-25,Roads,Road widening near Kholapur,Kholapur,8706000,7141800,1564200,2024-09-17,In Progress
+WRK0024,MLA - Badnera,Badnera,Amravati,2024-25,Sanitation,"Public toilet block, Walgaon",Walgaon,2900000,2641100,258900,2024-05-15,Completed
+WRK0025,MLA - Badnera,Badnera,Amravati,2024-25,Playground,"Development of playground, Dabhada",Dabhada,4759000,4412400,346600,2024-04-15,Completed
+WRK0026,MLA - Teosa,Teosa,Amravati,2024-25,Playground,"Development of playground, Chandur",Chandur,2390000,1129600,1260400,2024-08-02,Delayed
+WRK0027,MLA - Teosa,Teosa,Amravati,2024-25,Roads,"Cement concrete road, Shendurjana",Shendurjana,4724000,4382100,341900,2024-11-21,Completed
+WRK0028,MLA - Teosa,Teosa,Amravati,2024-25,School Building & Equipment,"Smart-class equipment, Warud school",Warud,961000,622500,338500,2024-06-06,In Progress
+WRK0029,MLA - Teosa,Teosa,Amravati,2024-25,Playground,"Development of playground, Nimbhora",Nimbhora,1563000,1522600,40400,2024-10-15,Completed
+WRK0030,MLA - Teosa,Teosa,Amravati,2024-25,School Building & Equipment,"Additional classroom, ZP School Anjangaon",Anjangaon,5378000,0,5378000,2024-11-17,Not Started
+WRK0031,MLA - Teosa,Teosa,Amravati,2024-25,Open Gym,"Outdoor fitness equipment, Nimbhora",Nimbhora,805000,741200,63800,2024-11-08,Completed
+WRK0032,MLA - Teosa,Teosa,Amravati,2024-25,Community Hall,"Construction of community hall, Chandur",Chandur,4756000,4397600,358400,2024-07-16,Completed
+WRK0033,MLA - Teosa,Teosa,Amravati,2024-25,Drainage,"Drainage line construction, Nandgaon",Nandgaon,2988000,2822100,165900,2024-05-22,Completed
+WRK0034,MLA - Teosa,Teosa,Amravati,2024-25,Roads,Road widening near Nimbhora,Nimbhora,884000,529700,354300,2024-11-22,In Progress
+WRK0035,MLA - Teosa,Teosa,Amravati,2024-25,Playground,"Development of playground, Nimbhora",Nimbhora,4198000,3993700,204300,2024-07-18,Completed
+WRK0036,MLA - Teosa,Teosa,Amravati,2024-25,Drainage,"Nala (drain) improvement, Kholapur",Kholapur,2847000,2816300,30700,2024-05-27,Completed
+WRK0037,MLA - Teosa,Teosa,Amravati,2024-25,Playground,"Development of playground, Chandur",Chandur,4665000,4613800,51200,2024-07-01,Completed
+WRK0038,MLA - Teosa,Teosa,Amravati,2024-25,Roads,"Cement concrete road, Anjangaon",Anjangaon,3403000,3312300,90700,2024-07-12,Completed
+WRK0039,MLA - Daryapur,Daryapur,Amravati,2024-25,Compound Wall (Schools/Institutions),"Compound wall, ZP School Warud",Warud,3234000,1664000,1570000,2024-12-13,In Progress
+WRK0040,MLA - Daryapur,Daryapur,Amravati,2024-25,Roads,Road widening near Rasulabad,Rasulabad,8804000,8064500,739500,2024-06-23,Completed
+WRK0041,MLA - Daryapur,Daryapur,Amravati,2024-25,Water Tank / Drinking Water,"Bore-well installation, Walgaon",Walgaon,3575000,1023000,2552000,2024-11-06,Delayed
+WRK0042,MLA - Daryapur,Daryapur,Amravati,2024-25,Open Gym,"Outdoor fitness equipment, Warud",Warud,1611000,1567700,43300,2024-06-19,Completed
+WRK0043,MLA - Daryapur,Daryapur,Amravati,2024-25,School Building & Equipment,"Smart-class equipment, Dabhada school",Dabhada,16522000,15136100,1385900,2024-04-03,Completed
+WRK0044,MLA - Daryapur,Daryapur,Amravati,2024-25,Roads,"Cement concrete road, Nandgaon",Nandgaon,482000,458300,23700,2024-05-24,Completed
+WRK0045,MLA - Daryapur,Daryapur,Amravati,2024-25,Roads,"Cement concrete road, Chandur",Chandur,212000,190900,21100,2024-10-19,Completed
+WRK0046,MLA - Daryapur,Daryapur,Amravati,2024-25,Sanitation,"Public toilet block, Dabhada",Dabhada,5171000,5115000,56000,2024-04-03,Completed
+WRK0047,MLA - Daryapur,Daryapur,Amravati,2024-25,Playground,"Development of playground, Walgaon",Walgaon,1817000,894600,922400,2024-12-23,Delayed
+WRK0048,MLA - Daryapur,Daryapur,Amravati,2024-25,Community Hall,"Construction of community hall, Walgaon",Walgaon,1759000,1664800,94200,2024-08-03,Completed
+WRK0049,MLA - Melghat,Melghat,Amravati,2024-25,Playground,"Playground boundary & leveling, Kurha",Kurha,3588000,1553100,2034900,2024-09-13,In Progress
+WRK0050,MLA - Melghat,Melghat,Amravati,2024-25,Water Tank / Drinking Water,"Overhead water tank construction, Anjangaon",Anjangaon,1539000,1108600,430400,2024-09-07,In Progress
+WRK0051,MLA - Melghat,Melghat,Amravati,2024-25,Roads,"Repair of approach road, Nimbhora",Nimbhora,4906000,2416900,2489100,2024-04-23,Delayed
+WRK0052,MLA - Melghat,Melghat,Amravati,2024-25,School Building & Equipment,"Additional classroom, ZP School Paratwada",Paratwada,716000,688100,27900,2024-04-05,Completed
+WRK0053,MLA - Melghat,Melghat,Amravati,2024-25,School Building & Equipment,"Smart-class equipment, Talegaon school",Talegaon,2127000,1101600,1025400,2024-06-09,In Progress
+WRK0054,MLA - Melghat,Melghat,Amravati,2024-25,Playground,"Playground boundary & leveling, Shendurjana",Shendurjana,359000,331600,27400,2024-11-26,Completed
+WRK0055,MLA - Melghat,Melghat,Amravati,2024-25,Roads,"Repair of approach road, Paratwada",Paratwada,782000,739800,42200,2024-08-11,Completed
+WRK0056,MLA - Melghat,Melghat,Amravati,2024-25,Water Tank / Drinking Water,"Overhead water tank construction, Paratwada",Paratwada,8986000,8922100,63900,2024-07-04,Completed
+WRK0057,MLA - Melghat,Melghat,Amravati,2024-25,Roads,Road widening near Paratwada,Paratwada,1248000,0,1248000,2024-11-07,Not Started
+WRK0058,MLA - Melghat,Melghat,Amravati,2024-25,Open Gym,"Outdoor fitness equipment, Anjangaon",Anjangaon,7340000,0,7340000,2024-06-19,Not Started
+WRK0059,MLA - Melghat,Melghat,Amravati,2024-25,School Building & Equipment,"Furniture & equipment supply, Shendurjana school",Shendurjana,2440000,1261200,1178800,2024-08-26,In Progress
+WRK0060,MLA - Melghat,Melghat,Amravati,2024-25,Drainage,"Drainage line construction, Rasulabad",Rasulabad,131000,129600,1400,2024-09-25,Completed
+WRK0061,MLA - Achalpur,Achalpur,Amravati,2024-25,Compound Wall (Schools/Institutions),"Compound wall, Anjangaon Primary Health Centre",Anjangaon,62000,61000,1000,2024-06-22,Completed
+WRK0062,MLA - Achalpur,Achalpur,Amravati,2024-25,Sanitation,"Solid waste collection point, Kurha",Kurha,8865000,8601100,263900,2024-06-14,Completed
+WRK0063,MLA - Achalpur,Achalpur,Amravati,2024-25,Water Tank / Drinking Water,"Bore-well installation, Anjangaon",Anjangaon,189000,184300,4700,2024-09-23,Completed
+WRK0064,MLA - Achalpur,Achalpur,Amravati,2024-25,Roads,"Cement concrete road, Nandgaon",Nandgaon,2017000,1880700,136300,2024-07-08,Completed
+WRK0065,MLA - Achalpur,Achalpur,Amravati,2024-25,Roads,Road widening near Talegaon,Talegaon,158000,151300,6700,2024-10-10,Completed
+WRK0066,MLA - Achalpur,Achalpur,Amravati,2024-25,Open Gym,"Open-air gym installation, Shendurjana",Shendurjana,1066000,1003400,62600,2024-12-12,Completed
+WRK0067,MLA - Achalpur,Achalpur,Amravati,2024-25,Drainage,"Drainage line construction, Paratwada",Paratwada,1459000,1342900,116100,2024-04-07,Completed
+WRK0068,MLA - Achalpur,Achalpur,Amravati,2024-25,Compound Wall (Schools/Institutions),"Compound wall, ZP School Shendurjana",Shendurjana,73000,12800,60200,2024-09-14,Delayed
+WRK0069,MLA - Achalpur,Achalpur,Amravati,2024-25,Water Tank / Drinking Water,"Bore-well installation, Dabhada",Dabhada,1694000,1650700,43300,2024-08-22,Completed
+WRK0070,MLA - Achalpur,Achalpur,Amravati,2024-25,Water Tank / Drinking Water,"Bore-well installation, Nandgaon",Nandgaon,6511000,5956400,554600,2024-07-06,Completed
+WRK0071,MLA - Achalpur,Achalpur,Amravati,2024-25,Water Tank / Drinking Water,"Overhead water tank construction, Paratwada",Paratwada,2244000,1840700,403300,2024-07-23,In Progress
+WRK0072,MLA - Achalpur,Achalpur,Amravati,2024-25,Community Hall,"Renovation of Samaj Mandir, Walgaon",Walgaon,4641000,4420900,220100,2024-06-10,Completed
+WRK0073,MLA - Achalpur,Achalpur,Amravati,2024-25,Open Gym,"Outdoor fitness equipment, Dabhada",Dabhada,3408000,3087600,320400,2024-09-23,Completed
+WRK0074,MLA - Achalpur,Achalpur,Amravati,2024-25,Playground,"Development of playground, Kholapur",Kholapur,2798000,2738300,59700,2024-05-21,Completed
+WRK0075,MLA - Morshi,Morshi,Amravati,2024-25,Roads,Road widening near Talegaon,Talegaon,2009000,1127900,881100,2024-09-16,In Progress
+WRK0076,MLA - Morshi,Morshi,Amravati,2024-25,Drainage,"Nala (drain) improvement, Chikhaldara",Chikhaldara,9914000,7496200,2417800,2024-10-17,In Progress
+WRK0077,MLA - Morshi,Morshi,Amravati,2024-25,Drainage,"Drainage line construction, Kurha",Kurha,351000,326500,24500,2024-10-05,Completed
+WRK0078,MLA - Morshi,Morshi,Amravati,2024-25,Roads,"Repair of approach road, Chandur",Chandur,1484000,0,1484000,2024-04-10,Not Started
+WRK0079,MLA - Morshi,Morshi,Amravati,2024-25,Open Gym,"Outdoor fitness equipment, Dabhada",Dabhada,2160000,1756700,403300,2024-06-13,In Progress
+WRK0080,MLA - Morshi,Morshi,Amravati,2024-25,School Building & Equipment,"Additional classroom, ZP School Walgaon",Walgaon,894000,878300,15700,2024-06-16,Completed
+WRK0081,MLA - Morshi,Morshi,Amravati,2024-25,Roads,"Cement concrete road, Walgaon",Walgaon,7255000,6143100,1111900,2024-04-25,In Progress
+WRK0082,MLA - Morshi,Morshi,Amravati,2024-25,School Building & Equipment,"Smart-class equipment, Paratwada school",Paratwada,1443000,733300,709700,2024-07-18,Delayed
+WRK0083,MLA - Morshi,Morshi,Amravati,2024-25,Roads,"Repair of approach road, Yavali",Yavali,1414000,1288100,125900,2024-06-16,Completed
+WRK0084,MLA - Morshi,Morshi,Amravati,2024-25,Water Tank / Drinking Water,"Overhead water tank construction, Kurha",Kurha,5058000,2287200,2770800,2024-04-06,Delayed
+WRK0085,MLA - Dhamangaon,Dhamangaon,Amravati,2024-25,Roads,Road widening near Talegaon,Talegaon,165000,118300,46700,2024-10-26,In Progress
+WRK0086,MLA - Dhamangaon,Dhamangaon,Amravati,2024-25,Compound Wall (Schools/Institutions),"Compound wall, Dabhada Primary Health Centre",Dabhada,3265000,2501500,763500,2024-09-27,In Progress
+WRK0087,MLA - Dhamangaon,Dhamangaon,Amravati,2024-25,Compound Wall (Schools/Institutions),"Compound wall, ZP School Paratwada",Paratwada,4155000,3753100,401900,2024-11-01,Completed
+WRK0088,MLA - Dhamangaon,Dhamangaon,Amravati,2024-25,Playground,"Development of playground, Shendurjana",Shendurjana,1665000,1381100,283900,2024-12-23,In Progress
+WRK0089,MLA - Dhamangaon,Dhamangaon,Amravati,2024-25,Roads,"Repair of approach road, Nimbhora",Nimbhora,2766000,2736200,29800,2024-08-26,Completed
+WRK0090,MLA - Dhamangaon,Dhamangaon,Amravati,2024-25,Water Tank / Drinking Water,"Bore-well installation, Talegaon",Talegaon,632000,334300,297700,2024-11-15,In Progress
+WRK0091,MLA - Dhamangaon,Dhamangaon,Amravati,2024-25,Compound Wall (Schools/Institutions),"Compound wall, ZP School Rasulabad",Rasulabad,6225000,0,6225000,2024-04-22,Not Started
+WRK0092,MLA - Dhamangaon,Dhamangaon,Amravati,2024-25,Community Hall,"Construction of community hall, Nimbhora",Nimbhora,2886000,2618800,267200,2024-04-10,Completed
+WRK0093,MLA - Dhamangaon,Dhamangaon,Amravati,2024-25,Sanitation,"Solid waste collection point, Dabhada",Dabhada,1020000,624600,395400,2024-07-03,In Progress
+WRK0094,MLA - Dhamangaon,Dhamangaon,Amravati,2024-25,Playground,"Playground boundary & leveling, Anjangaon",Anjangaon,3982000,3640900,341100,2024-10-01,Completed
+WRK0095,MLA - Dhamangaon,Dhamangaon,Amravati,2024-25,Drainage,"Nala (drain) improvement, Paratwada",Paratwada,1353000,1305100,47900,2024-06-27,Completed
+WRK0096,MLA - Dhamangaon,Dhamangaon,Amravati,2024-25,Community Hall,"Construction of community hall, Walgaon",Walgaon,2000000,1877900,122100,2024-11-11,Completed
+WRK0097,MLA - Amravati (Additional Segment),Amravati (Additional Segment),Amravati,2024-25,Water Tank / Drinking Water,"Bore-well installation, Nandgaon",Nandgaon,454000,414500,39500,2024-12-24,Completed
+WRK0098,MLA - Amravati (Additional Segment),Amravati (Additional Segment),Amravati,2024-25,Roads,"Cement concrete road, Dabhada",Dabhada,16751000,16417400,333600,2024-07-04,Completed
+WRK0099,MLA - Amravati (Additional Segment),Amravati (Additional Segment),Amravati,2024-25,School Building & Equipment,"Smart-class equipment, Walgaon school",Walgaon,1335000,1209200,125800,2024-04-06,Completed
+WRK0100,MLA - Amravati (Additional Segment),Amravati (Additional Segment),Amravati,2024-25,Roads,"Cement concrete road, Rasulabad",Rasulabad,1148000,1145600,2400,2024-09-05,Completed
+WRK0101,MLA - Amravati (Additional Segment),Amravati (Additional Segment),Amravati,2024-25,Playground,"Development of playground, Chandur",Chandur,1000,900,100,2024-10-24,Completed
+WRK0102,MLA - Amravati (Additional Segment),Amravati (Additional Segment),Amravati,2024-25,Playground,"Development of playground, Anjangaon",Anjangaon,5452000,4169000,1283000,2024-04-05,In Progress
+WRK0103,MLA - Amravati (Additional Segment),Amravati (Additional Segment),Amravati,2024-25,Sanitation,"Public toilet block, Kurha",Kurha,5174000,5061300,112700,2024-07-26,Completed
+WRK0104,MLA - Amravati (Additional Segment),Amravati (Additional Segment),Amravati,2024-25,Drainage,"Nala (drain) improvement, Anjangaon",Anjangaon,3893000,1395700,2497300,2024-08-10,Delayed
+WRK0105,MLA - Amravati (Additional Segment),Amravati (Additional Segment),Amravati,2024-25,Roads,"Repair of approach road, Dabhada",Dabhada,722000,712400,9600,2024-10-05,Completed
+WRK0106,MLA - Amravati (Additional Segment),Amravati (Additional Segment),Amravati,2024-25,Roads,"Cement concrete road, Kurha",Kurha,3276000,3167800,108200,2024-04-14,Completed
