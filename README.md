@@ -39,6 +39,7 @@ design, not a reproduction of confidential or actual disclosed figures.
 - **₹8.2 Cr** unspent balance identified
 - **Roads** is the top spending category
 - Utilization ranged from **93.6%** (highest) to **53.4%** (lowest) across constituencies
+- ![Dashboard screenshot](images/dashboard-2.jpg)
 
 ## How to run this
 
