@@ -9,12 +9,13 @@ constituencies in Amravati district, Maharashtra — built with Python
 | File | Purpose |
 |---|---|
 | `mla_fund_dataset.csv` | Work-level fund records (106 rows, 9 constituencies) |
-| `generate_dataset.py` | Script that generates the dataset |
 | `analyze_mla_fund.py` | Script version of the analysis (saves charts/Excel to disk) |
 | `mla_fund_analysis.ipynb` | Notebook version — same analysis, runs cell-by-cell with inline charts |
 | `insights_summary.xlsx` | Summary workbook (MLA-wise, category-wise, status) |
 | `charts/` | Generated chart images |
 | `MLA_Fund_Dashboard.pbix` | Power BI dashboard file — download and open in Power BI Desktop |
+| `mla_fund_dataset.csv` | Representative work-level fund records (166 rows, 8 constituencies, 12 categories) — see "About the dataset" below |
+
 
 ## Key findings
 
